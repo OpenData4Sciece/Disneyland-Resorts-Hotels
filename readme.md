@@ -1,9 +1,6 @@
-# Disneyland Resorts Hotels
+# Disney Resorts' Hotels Analysis Project
 
-Disneyland Resorts Hotels Investigation Study
-
-
-# Disney Hotels Analysis Project
+> Disneyland Resorts Hotels Investigation Study
 
 ## Overview
 This project performs a comprehensive data science analysis of Disneyland Paris hotels, including pricing strategies, occupancy patterns, customer satisfaction, and revenue optimization. The analysis includes statistical modeling, machine learning predictions, and detailed visualizations.
