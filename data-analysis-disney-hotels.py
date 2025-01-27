@@ -365,7 +365,7 @@ class GlobalDisneyAnalysis:
             'satisfaction_drivers': satisfaction_corr
         }
 
-def create_visualizations(self, df):
+    def create_visualizations(self, df):
         plt.style.use('seaborn')
         fig = plt.figure(figsize=(20, 15))
 
